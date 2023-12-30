@@ -1,5 +1,7 @@
 # ---------**恋爱指南---------**
 
+[本文链接：恋爱指南](https://github.com/Jason0107/Love-Guide/blob/main/README.md)
+
 # 目录
 
 ```
